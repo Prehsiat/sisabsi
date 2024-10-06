@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500;600&family=Orelega+One&family=Varela+Round&display=swap');
+
+body {
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.row {
+  width: 100% !important;
+}
+
+.paginate_button {
+  padding: 0 10px;
+}
+
+a {
+  color: #007bc2;
+}
+
+a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.input-group-addon {
+  padding: .375rem .75rem .375rem 0;
+}
+
+td {
+  align-content: center;
+}
+
+input {
+  margin: 0 2px 0 10px;
+}
+
+.btn:hover {
+  font-weight: bold !important;
+  text-decoration: underline;
+}
+
+.logout-btn:hover {
+  color: red !important;
+  text-decoration: underline;
+}
